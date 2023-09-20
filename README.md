@@ -1,10 +1,10 @@
 # Pedro Dearmas
 
 ## About Me
-- 👨‍💻 Desenvolvedor de Software
-- 🌐 Apaixonado por tecnologia e código aberto
-- 📚 Aprendendo algo novo todos os dias
-- 💬 Sempre aberto para colaborações e novos projetos
+- 👨‍💻 Software Developer
+- 🌐 Passionate about technology and open source
+- 📚 Learning something new every day
+- 💬 Always open to collaborations and new projects
 
 ## GitHub Statistics
 ![Statistics](https://github-readme-stats.vercel.app/api?username=PedroDearmas&show_icons=true)
