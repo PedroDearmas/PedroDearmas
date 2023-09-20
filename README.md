@@ -4,7 +4,7 @@
 - 👨‍💻 Software Developer
 - 🌐 Passionate about technology and open source
 - 📚 Learning something new every day
-- 🎓Pursuing a degree in Technology in Analysis and Systems Developmentat ifsul.
+- 🎓Pursuing a degree in Technology in Analysis and Systems Development.
 
 ## GitHub Statistics
 ![Statistics](https://github-readme-stats.vercel.app/api?username=PedroDearmas&show_icons=true)
