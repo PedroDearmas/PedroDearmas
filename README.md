@@ -7,7 +7,7 @@
 - 🎓Pursuing a degree in Technology in Analysis and Systems Development.
 
 ## GitHub Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDearmas=transparent=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDearmas&theme=transparent_icons=true)
 
 ## Get in Touch
 - 📧 Email: Pedrodearmas1234@gmail.com
