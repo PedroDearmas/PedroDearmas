@@ -9,7 +9,7 @@
 ## GitHub Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDearmas&theme=github_dark&show_icons=true)
-\t
+<\t>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDearmas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
