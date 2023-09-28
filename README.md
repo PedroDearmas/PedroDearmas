@@ -17,6 +17,4 @@
 - 💼 LinkedIn: [Pedro Araujo Dearmas](https://www.linkedin.com/in/pedro-araujo-dearmas/)
 - 🐦 Twitter: [@Pedro_4r4uj0](https://twitter.com/Pedro_4r4uj0)
 
-![Snak animation](https://github.com/PedroDearmas/PedroDearmas/blob/output/github-contribution-grid-snak.svg)
-
 <!-- Adicione mais informações pessoais, projetos e links de redes sociais conforme necessário -->
