@@ -19,4 +19,5 @@
 
 ![Snake animation](https://github.com/PedroDearmas/PedroDearmas/blob/output/github-contribution-grid-snake.svg)
 
+
 <!-- Adicione mais informações pessoais, projetos e links de redes sociais conforme necessário -->
